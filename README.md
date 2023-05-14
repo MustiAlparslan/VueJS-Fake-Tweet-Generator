@@ -1,4 +1,4 @@
-Live demo https://vue-js-fake-tweet-generator-2e3f.vercel.app/
+Live demo https://vue-js-fake-tweet-generator.vercel.app/
 
 # fake-tweet-generator
 
