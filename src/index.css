@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body #app{
+    @apply w-full h-screen min-w-full box-border bg-[#262626] text-white
+}
